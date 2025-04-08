@@ -15,7 +15,7 @@ while True:
         if not new_name:
             new_name = 'arquivo.txt'
         filename = new_name
-        with open(filename, 'w'):
+        with open(filename, 'w') as arquivo:
             pass
         print(f"Arquivo '{filename}' criado.")
     elif opcao == '2':
