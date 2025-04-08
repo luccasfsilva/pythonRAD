@@ -18,7 +18,7 @@ Um programa simples em Python para gerenciar arquivos de texto via linha de coma
 ### Execução
 ```bash
 # Clone o repositório
-https://github.com/luccasfsilva/file-manager-cli
+[https://github.com/luccasfsilva/file-manager](https://github.com/luccasfsilva/pythonRAD)
 
 # Acesse o diretório
 cd file-manager-cli
@@ -60,5 +60,3 @@ Entrada: "ESTA É UMA LINHA"
 Saída: "Esta é uma linha"
 ```
 
-## Licença 📄
-Este projeto está sob licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
